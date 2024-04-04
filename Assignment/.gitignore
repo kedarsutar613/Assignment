@@ -1,0 +1,45 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Compiled binary addons (if any)
+build/Release
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
